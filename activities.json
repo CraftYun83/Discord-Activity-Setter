@@ -1,0 +1,22 @@
+{
+    "Discord": {
+        "app": "Discord.exe",
+        "status_message": "I'm online",
+        "priority": 0
+    },
+    "Visual Studio Code": {
+        "app": "Code.exe",
+        "status_message": "Coding stuff",
+        "priority": 1
+    },
+    "Minecraft": {
+        "app": "Lunar Client.exe",
+        "status_message": "playing mc man",
+        "priority": 2
+    },
+    "Valorant": {
+        "app": "VALORANT-Win64-Shipping.exe",
+        "status_message": "Playign VALORANTTTTT",
+        "priority": 3
+    }
+}
